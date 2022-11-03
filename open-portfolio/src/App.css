@@ -1,0 +1,24 @@
+body {
+  background-color: #282c34;
+}
+
+.App {
+  text-align: left;
+  height: 100vh;
+}
+
+.App-header {
+  text-align: center;
+}
+.navbar {
+  background-color: whitesmoke;
+  height: 25px;
+}
+.title {
+  color:whitesmoke;
+}
+.link {
+  float:left;
+  padding-left: 25px;
+  margin-top:0px;
+}
